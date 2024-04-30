@@ -334,6 +334,12 @@ input[type="submit"]:hover{
     border: 2px solid #BFC0C1;
 }
 
+#derechos{
+    font-size: 0.8rem;
+    text-align: center;
+    color: white;
+    padding-bottom: 12px;
+}
 /* Responsive */
 
 @media screen and (max-width:900px) {
