@@ -384,6 +384,12 @@ input[type="submit"]:hover{
     }
 }
 
+@media screen and (max-width: 500px){
+    #h1-munizaga{
+        font-size: 45px;
+    }
+}
+
 @media screen and (max-width:380px) {
     header .textos {
         margin-top: 100px;
@@ -392,9 +398,7 @@ input[type="submit"]:hover{
     header .titulo {
         font-size: 65px;
     }
-    #h1-munizaga{
-        font-size: 45px;
-    }
+   
     header .subtitulo {
         font-size: 25px;
         margin-bottom: 32px;
